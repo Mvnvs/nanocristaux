@@ -1,0 +1,11 @@
+
+train: /content/drive/My Drive/yolo_images/train/images
+val: /content/drive/My Drive/yolo_images/val/images
+test: /content/drive/My Drive/yolo_images/test/images
+
+nc: 3  # nombre de classes
+
+names:
+  - 'cubic'
+  - 'pseudo-cubic'
+  - 'ball'
